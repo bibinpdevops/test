@@ -4,3 +4,4 @@ hi everyone
 
 homepage changed
 
+about page added
