@@ -1,2 +1,2 @@
 binz new text file
-added another text
+added another text..
